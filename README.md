@@ -1,3 +1,5 @@
+## This project is fork from one open resource to do the improment
+
 # stock-knowledge-graph
 
 A small knowledge graph (knowledge base) construction using data published on the web.
